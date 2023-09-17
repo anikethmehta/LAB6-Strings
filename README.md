@@ -33,6 +33,8 @@ For printing length of word using ptr:
 
 ### ***Output Screenshot*** :
 
+https://github.com/anikethmehta/LAB8/blob/main/code%20palindrome.png
+
 
 
 
