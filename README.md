@@ -39,6 +39,8 @@ https://github.com/anikethmehta/LAB8/blob/main/code%20palindrome%20continued.png
 
 https://github.com/anikethmehta/LAB8/blob/main/output%20not%20palindrome.png
 
+https://github.com/anikethmehta/LAB8/blob/main/output%20palindrome.png
+
 
 
 
