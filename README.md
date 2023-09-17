@@ -43,6 +43,8 @@ https://github.com/anikethmehta/LAB8/blob/main/output%20palindrome.png
 
 https://github.com/anikethmehta/LAB8/blob/main/Code%20length%20of%20str%20using%20ptr.png
 
+https://github.com/anikethmehta/LAB8/blob/main/output%20length%20of%20str.png
+
 
 
 
