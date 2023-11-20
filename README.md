@@ -1,4 +1,5 @@
-### ***Title*** : LAB8
+### ***Date*** : 14 August - 18 September 2023
+### ***Title*** : LAB6
 ### ***Aim*** : 
 (1) Write a program to declare a char array of 20 characters. Read a word(using scanf or cin>>) into the char array.
 
